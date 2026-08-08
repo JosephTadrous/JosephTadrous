@@ -27,7 +27,7 @@ At **Itron**, I work on the Network Integration Lab team, where I build data pip
 
 I'm especially into full-stack apps, backend systems, and data infrastructure. Lately, I've been getting into AI engineering, exploring how LLMs and agents fit into the kind of systems I already like building.
 
-Outside of work, you'll find me cooking, making latte art, travelling or messing around with graphic design. I also love playing and watching sports — especially tennis, soccer, and volleyball.
+Outside of work, you'll find me cooking, making latte art, travelling or messing around with graphic design. I also love playing and watching sports, especially tennis, soccer, and volleyball.
 
 ---
 
