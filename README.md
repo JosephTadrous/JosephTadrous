@@ -2,7 +2,7 @@
 
 <p align="center">Always tinkering with something</p>
 <div align="center">
-  <b>Software Engineer @ Itron</b>
+  <b>Software Engineer @ <a href="https://na.itron.com/">Itron</a></b>
 </div>
 <p align="center">📍 San Francisco, CA · 🎓 B.S. CS, Haverford College </p>
 
