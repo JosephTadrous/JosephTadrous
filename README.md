@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Joseph 👋</h1>
 
-<p align="center">I'm a curious software engineer; always tinkering with something</p>
+<p align="center">Always tinkering with something</p>
 <div align="center">
   <b>Software Engineer @ Itron</b>
 </div>
