@@ -41,6 +41,7 @@ Outside of work, you'll find me cooking, making latte art, travelling or messing
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-4EAA25?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Frameworks & Libraries**
 
