@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-At **Itron**, I work on the Network Integration Lab team, where I build data pipelines and tools that help make sense of large-scale mesh networks — turning raw device telemetry into dashboards and reports that internal teams and customers actually use to make decisions.
+At **Itron**, I work on the Network Integration Lab team, where I build data pipelines and tools that help make sense of large-scale mesh networks, turning raw device telemetry into dashboards and reports that internal teams and customers actually use to make decisions.
 
 I'm especially into full-stack apps, backend systems, and data infrastructure. Lately, I've been getting into AI engineering, exploring how LLMs and agents fit into the kind of systems I already like building.
 
